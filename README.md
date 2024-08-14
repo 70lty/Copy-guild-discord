@@ -30,8 +30,4 @@ Discord category
 Discord channel
 Discord permissions 
 
-# Contact
 
-![logo de discord](https://cdn.discordapp.com/attachments/479290836190756879/956564808927436800/8244-discord.png) 
---->
-zoltyprime
