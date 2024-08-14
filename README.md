@@ -34,7 +34,4 @@ Discord permissions
 
 ![logo de discord](https://cdn.discordapp.com/attachments/479290836190756879/956564808927436800/8244-discord.png) 
 --->
-" Zolty#001
-
-
-[My discord server](https://discord.gg/A9sVh5qgkT).
+zoltyprime
